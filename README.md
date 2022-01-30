@@ -10,8 +10,6 @@ developer in a short time.
 
 Skills: REACT / JS / HTML / CSS / MySQL / Nodejs / Mongo DB / bootstrap.
 
-- 🔭 I’m currently working on this page. 
-
 ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning PHP.
