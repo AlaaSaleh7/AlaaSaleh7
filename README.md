@@ -10,3 +10,5 @@ I am a full-stack developer. I love programming, problem solving, and reading.
 - 🌱 I’m currently learning PHP.
 - 👯 I’m looking to collaborate on New project.
 - 💬 Ask me about JavaScript.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaSaleh7)](https://github.com/anuraghazra/github-readme-stats)
